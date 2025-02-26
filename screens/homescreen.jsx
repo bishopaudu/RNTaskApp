@@ -123,7 +123,7 @@ const styles = StyleSheet.create({
         bottom: 20,
         left: 20,
         right: 20,
-        backgroundColor: "blue",
+        backgroundColor: "#007BFF",
         paddingVertical: 15,
         borderRadius: 10,
         justifyContent: "center",
